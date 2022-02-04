@@ -352,8 +352,11 @@ bool Instance::loadAgents()
 
 	string line;
 	ifstream myfile (agent_fname.c_str());
-	if (!myfile.is_open()) 
-	return false;
+	if (!myfile.is_open()) {
+		cerr << "The agent file " << agent_fname << " cannot be opened!" << endl;
+		return false;
+	}
+	
 
 	getline(myfile, line);
 	if (nathan_benchmark) // Nathan's benchmark
