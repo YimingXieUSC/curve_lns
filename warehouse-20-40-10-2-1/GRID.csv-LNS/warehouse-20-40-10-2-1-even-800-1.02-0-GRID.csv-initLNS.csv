@@ -1,0 +1,16 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+18.7093,0,199445,4,199427,154090,6,8,15.162,6.77094,8597446,3548965,6792524,830,1.90867,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-2.scen
+20.4933,0,192549,5,192504,150353,5,7.75,19.2186,5.89525,9355448,3376375,7716292,831,1.8425,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-5.scen
+8.49893,0,197104,1,197100,150118,3,8,7.9503,0.548632,7146986,2353828,5916408,815,1.89862,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-8.scen
+14.7319,0,211134,1,211080,159768,2,8,14.7053,0.0265913,8786003,2875219,7425422,809,1.92841,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-9.scen
+11.9204,0,204548,1,204548,154923,3,8,11.1087,0.811697,6483401,2990138,5039317,817,1.86549,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-11.scen
+29.0187,0,207056,3,207059,156055,10,8,21.9147,8.14061,12243788,5014878,9890200,856,1.84455,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-12.scen
+2.06619,0,202343,1,202519,154865,3,8,1.48027,0.585929,4851345,1752071,3759773,817,1.89293,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-13.scen
+9.26809,0,209605,1,209605,155767,2,8,9.16238,0.105707,7270030,2287538,6023216,809,1.8908,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-14.scen
+11.0649,0,213096,1,213092,162983,2,8,10.9104,0.154551,5319478,2683829,4202898,809,2.20053,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-16.scen
+1.2119,0,202906,1,202811,151210,2,8,1.10667,0.105225,5902246,1828638,4677472,809,1.92647,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-17.scen
+15.8162,0,199618,4,199526,154493,4,8,15.0814,2.37681,6558134,3113902,5082021,825,1.93495,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-19.scen
+12.7588,0,208078,3,208019,156868,4,8,11.3666,4.0006,8502882,3125137,6698171,823,1.8708,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-20.scen
+6.52685,0,201009,2,200890,156073,7,8,6.03642,0.554102,4168028,2550182,3005759,838,1.94207,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-23.scen
+38.4521,0,207294,2,207281,158972,22,8,18.1619,33.471,13110869,7173408,9612346,922,1.92264,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-24.scen
+17.872,0,212692,1,212676,158007,2,8,16.9428,0.929167,6863500,3038494,5500518,809,2.01982,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-25.scen

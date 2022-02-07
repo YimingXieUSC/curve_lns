@@ -319,7 +319,7 @@ class DataProcessor:
         tmp_sum = dict()
         for tmp_solver in self.config['solvers']:
             tmp_sum[tmp_solver['name']] = dict()
-            for tmp_w_idx, tmp_w in enumerate(self.config['f_weights']):
+            for tmp_w_idx, tmp_w in (self.config['f_weights']):
                 tmp_tmp_sum = 0
                 for tmp_map in self.config['maps']:
                     tmp_tmp_sum += result[tmp_solver['name']][tmp_map['name']]['val'][tmp_w_idx]
@@ -457,6 +457,7 @@ if __name__ == '__main__':
     data_processor = DataProcessor(args.config)
     # data_processor.plot_fig()
     data_processor.plot_fig(x_index='num', y_index='succ')
+    # TODO: next step: data_processor.plot_fig(x_index='num', y_index='succ')
     # data_processor.plot_fig(x_index='w', y_index='runtime')
     # data_processor.get_sum_along_w()
     # data_processor.get_lb_improvement_along_w()

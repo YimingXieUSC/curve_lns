@@ -16,14 +16,15 @@ int main(int argc, char** argv)
 		("help", "produce help message")
 
 		// params for the input instance and experiment settings
-		("map,m", po::value<string>()->default_value("random-32-32-20.map"), "input file for map")
+		("map,m", po::value<string>()->required(), "input file for map")
 		("agents,a", po::value<string>()->default_value("random-32-32-40-even-1.scen"), "input file for agents")
 		("agentNum,k", po::value<int>()->default_value(40), "number of agents")
-        ("output,o", po::value<string>()->default_value("/random-32-32-20/GRID/random-32-32-40-even-20-1.02-0-GRID.csv"), "output file name (no extension)")
+        ("output,o", po::value<string>()->required(), "output file name (no extension)")
 		("cutoffTime,t", po::value<double>()->default_value(300), "cutoff time (seconds)")
 		("screen,s", po::value<int>()->default_value(-1),
 		        "screen option (0: none; 1: LNS results; 2:LNS detailed results; 3: MAPF detailed results; -1: debug)")
 		("stats", po::value<string>(), "output stats file")
+
 
 		// solver
 		("solver", po::value<string>()->default_value("LNS"), "solver (LNS, A-BCBS, A-EECBS)")

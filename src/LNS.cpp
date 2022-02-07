@@ -113,14 +113,11 @@ bool LNS::run()
     runtime = 0; // just for testing
     while (runtime < time_limit && iteration_stats.size() <= num_of_iterations)
     {
-        cout << "??? " << endl;
         runtime = ((fsec)(Time::now() - start_time)).count();
         if (screen >= 1)
             validateSolution();
         if (ALNS)
             chooseDestroyHeuristicbyALNS();
-
-        cout << "The destroy strategy is " << destroy_strategy << endl;
 
         switch (destroy_strategy)
         {
@@ -590,6 +587,7 @@ struct CompareCollision
 
 bool LNS::generateNeighborByGridCollision()
 {
+    cout << "Before GrdiCollision" << endl;
     vector<int> start_locations = instance.getStarts();
     vector<Path> agentPaths;
 
@@ -719,6 +717,8 @@ bool LNS::generateNeighborByGridCollision()
             collision_rank.push(counterGrid[i][j]);
         }
     }
+    cout << "Before while loop" << endl;
+
 
     while (neighbors_set.size() < neighbor_size)
     {
@@ -741,12 +741,19 @@ bool LNS::generateNeighborByGridCollision()
             collision_rank.pop();
         }
     }
+    cout <<"After while loop 2" << endl;
 
-    // for the leftover positions assign random agents
-    while(neighbors_set.size() < neighbor_size){
-        neighbors_set.insert(findRandomAgent());
-    }
+    
+    
 
+    // // for the leftover positions assign random agents
+    // while(neighbors_set.size() < neighbor_size){
+    //     neighbors_set.insert(findRandomAgent());
+    // }
+    neighbor_size = neighbors_set.size();
+    
+
+    cout <<"After while loop" << endl;  
     // neighbor.agents.assign(neighbors_set.begin(), neighbors_set.end());
     // if (neighbor.agents.size() > neighbor_size)
     // {
@@ -818,7 +825,6 @@ bool LNS::generateNeighborByIntersection()
 }
 bool LNS::generateNeighborByRandomWalk()
 {
-    cerr << "Running RANDOMWALK" << endl;
     if (neighbor_size >= (int)agents.size())
     {
         neighbor.agents.resize(agents.size());

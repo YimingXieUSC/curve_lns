@@ -1,0 +1,13 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+6.51444,0,204034,2,203976,168090,2,8,6.28513,0.45862,1691572,3789974,474489,809,2.58657,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-2.scen
+4.54736,0,198486,1,198486,164272,2,8,4.25191,0.295446,1259875,3160657,297406,809,2.58978,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-4.scen
+2.32694,0,202725,1,202715,168710,3,8,1.51446,0.812483,1873627,2935849,530611,810,2.64439,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-5.scen
+8.13166,0,202634,3,202372,169058,3,8,7.17906,1.81472,2700053,3873218,1210771,817,2.64299,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-7.scen
+6.48263,0,195278,1,195233,164302,2,8,6.1295,0.353133,1360261,3590253,291251,809,2.62726,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-10.scen
+21.3983,0,197175,2,196917,164403,7,8,18.3991,3.16847,7044370,3892645,5408098,843,2.64965,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-11.scen
+9.97658,0,202743,2,202608,167316,3,8,8.9086,2.13595,3039584,3817187,1669750,817,2.64388,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-14.scen
+2.21381,0,194187,1,194183,163695,2,8,1.99628,0.21753,1649124,2613353,599071,809,2.66038,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-16.scen
+6.03402,0,204311,2,204301,169131,2,8,5.74768,0.572674,2410245,3526878,1161533,809,2.63681,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-17.scen
+1.69265,0,192094,1,191942,158794,2,8,1.5924,0.100253,1268219,2373908,244240,809,2.65727,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-20.scen
+6.13868,0,197681,3,197652,163565,2,8,5.76882,1.10959,1353699,3496943,256121,809,2.63079,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-24.scen
+1.66739,0,198625,1,198623,161765,2,8,1.3331,0.334287,1535387,2481774,427120,809,2.73738,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/den520d-even-25.scen

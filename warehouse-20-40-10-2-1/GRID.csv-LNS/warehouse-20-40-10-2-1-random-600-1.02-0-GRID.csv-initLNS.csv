@@ -1,0 +1,13 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+6.50465,0,124311,2,124299,96646,4,8,5.57176,1.4141,3488669,1577403,2689040,621,1.51598,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-1.scen
+2.11499,0,130497,1,130497,102515,2,8,1.96593,0.149062,3731567,907375,3115835,609,1.42552,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-3.scen
+4.9593,0,123361,2,123063,97586,6,8,2.55919,4.78259,3969473,1328848,3229880,637,1.44775,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-4.scen
+4.70966,0,121706,2,121697,97314,4,6.33333,4.14348,1.03853,2713211,1446131,2029430,620,1.44148,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-5.scen
+0.381809,0,120987,1,120988,95917,3,8,0.17089,0.210919,3245484,801188,2697377,616,1.47524,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-7.scen
+6.49069,0,124974,4,124840,97543,6,8,5.04498,3.49763,2908923,1540147,2039477,641,1.4254,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-8.scen
+2.35058,0,122897,1,122894,96896,3,8,0.779368,1.57121,4178106,1024288,3414796,617,1.4666,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-11.scen
+0.837813,0,126413,1,126413,99765,4,8,0.233599,0.604214,1773994,779611,1281796,616,1.58407,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-13.scen
+1.51409,0,121245,1,120989,95582,2,8,1.49581,0.0182787,2774571,913656,2156079,609,1.47738,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-15.scen
+7.20122,0,120163,7,120037,96955,6,7.8,6.51367,4.36185,3058330,1694468,2202563,640,1.42672,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-16.scen
+5.31511,0,123150,1,122994,98214,3,8,4.98621,0.328896,2580275,1335722,1978802,615,1.46147,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-17.scen
+4.3362,0,124370,1,124313,96798,3,8,3.78393,0.552265,3593807,1211345,2858367,617,1.48589,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-19.scen

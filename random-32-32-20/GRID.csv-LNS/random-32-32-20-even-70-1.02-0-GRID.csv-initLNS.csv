@@ -1,0 +1,11 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+0.00621184,0,1830,1,1805,1629,2,8,0.00531142,0.000900427,5619,11661,45,79,0.00654961,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-4.scen
+0.00631715,0,1866,1,1869,1622,2,8,0.00516263,0.00115453,5933,11306,65,79,0.00676253,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-9.scen
+0.0267325,0,2198,1,2198,1703,4,8,0.012044,0.0146885,11943,23855,998,93,0.00716433,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-11.scen
+0.0116822,0,2131,1,2148,1889,2,8,0.0094483,0.0022339,6387,16041,27,79,0.00653239,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-16.scen
+0.0132054,0,2254,1,2251,1839,3,7.5,0.00891706,0.00428833,7955,16614,93,79,0.00690651,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-18.scen
+0.0106321,0,1958,2,1952,1702,2,8,0.00811463,0.00503498,8304,15071,396,79,0.00707191,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-19.scen
+0.0127493,0,2066,1,2065,1732,3,8,0.00773361,0.00501569,11260,17009,2755,86,0.00674812,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-21.scen
+0.00622892,0,2031,1,2021,1672,2,8,0.00466613,0.00156279,6130,12151,113,79,0.00656037,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-22.scen
+0.00473202,0,2066,1,2047,1690,2,8,0.00336707,0.00136496,6247,10824,188,79,0.0072304,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-23.scen
+0.0104213,0,1977,1,1974,1681,3,8,0.00487796,0.00554338,8212,15356,198,84,0.00997367,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-24.scen

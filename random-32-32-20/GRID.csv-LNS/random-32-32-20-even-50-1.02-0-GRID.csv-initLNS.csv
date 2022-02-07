@@ -1,0 +1,4 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+0.0110701,0,1459,1,1462,1226,4,7.66667,0.00504144,0.00602862,7756,14583,52,68,0.00646968,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-11.scen
+0.00710725,0,1532,1,1521,1362,2,8,0.0058002,0.00130705,4389,9691,40,59,0.00520886,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-16.scen
+0.00464566,0,1471,1,1467,1320,2,8,0.00338504,0.00126062,5336,9898,0,59,0.00513599,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-18.scen

@@ -1,0 +1,2 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+0.612376,0,78038,1,78032,64912,3,8,0.377187,0.235189,1648441,581835,1255273,414,0.927411,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_random/warehouse-20-40-10-2-1-random-16.scen

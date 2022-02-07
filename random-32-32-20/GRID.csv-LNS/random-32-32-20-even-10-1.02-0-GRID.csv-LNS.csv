@@ -1,0 +1,26 @@
+runtime,solution cost,initial solution cost,lower bound,sum of distance,iterations,group size,runtime of initial solution,restart times,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+0.0842418,200,200,200,200,21,0,0.000307705,0,0,218,469,0,10,0.00109071,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-1.scen
+0.0370587,252,252,250,250,21,0,0.000492212,0,119.999,264,558,0,10,0.00135849,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-2.scen
+0.0280622,168,168,168,168,21,0,0.000272408,0,0,181,392,0,10,0.000983173,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-3.scen
+0.0340137,244,244,244,244,21,0,0.000391739,0,0,254,548,0,10,0.000992794,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-4.scen
+0.0421266,241,241,240,240,21,0,0.000632928,0,59.9994,325,623,0,10,0.0010172,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-5.scen
+0.0383232,223,223,214,214,21,0,0.000389027,0,539.996,242,526,0,10,0.00106573,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-6.scen
+0.0799434,197,197,197,197,21,0,0.000283359,0,0,207,440,0,10,0.0012329,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-7.scen
+0.0747967,243,243,243,243,21,0,0.000334892,0,0,253,561,0,10,0.000950268,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-8.scen
+0.0667262,303,303,299,299,21,0,0.000463375,0,239.998,406,778,0,10,0.00115744,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-9.scen
+0.0869076,219,219,219,219,21,0,0.000405757,0,0,229,498,0,10,0.00114863,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-10.scen
+0.118916,242,242,238,238,21,0,0.000408251,0,239.998,340,667,0,10,0.00143812,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-11.scen
+0.0667139,245,245,240,240,21,0,0.000335177,0,299.998,260,556,0,10,0.00111778,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-12.scen
+0.061413,305,305,305,305,21,0,0.000575379,0,0,316,691,0,10,0.00115291,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-13.scen
+0.0856704,281,281,280,280,21,0,0.000365788,0,59.9996,301,640,0,10,0.000965651,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-14.scen
+0.0463244,274,274,272,272,21,0,0.000498947,0,119.999,304,665,0,10,0.00115968,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-15.scen
+0.0569208,290,290,288,288,21,0,0.00063948,0,119.999,412,834,0,10,0.00122755,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-16.scen
+0.0991789,304,304,289,289,21,0,0.000410317,0,899.994,315,689,0,10,0.00146071,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-17.scen
+0.068434,344,344,297,297,21,0,0.00107926,0,2819.95,332,711,0,10,0.000938942,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-18.scen
+0.0620488,174,174,174,174,21,0,0.000424064,0,0,237,481,0,10,0.00140792,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-19.scen
+0.0951138,231,231,221,221,21,0,0.000567474,0,599.994,253,528,0,10,0.00100562,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-20.scen
+0.0515562,275,275,271,271,21,0,0.000588583,0,239.998,288,629,0,10,0.00121489,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-21.scen
+0.0407864,297,297,273,273,21,0,0.000579836,0,1439.99,359,708,0,10,0.00138945,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-22.scen
+0.0412356,316,316,314,314,21,0,0.000791919,0,119.998,340,716,0,10,0.00151725,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-23.scen
+0.0430373,248,248,232,232,21,0,0.000379461,0,959.994,260,557,0,10,0.00112415,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-24.scen
+0.0390105,309,309,281,281,21,0,0.000520553,0,1679.99,321,674,0,10,0.00134986,LNS(PP;PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-25.scen

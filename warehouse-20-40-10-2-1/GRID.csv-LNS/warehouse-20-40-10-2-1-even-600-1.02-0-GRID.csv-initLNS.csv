@@ -1,0 +1,11 @@
+runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
+5.24977,0,137443,3,137437,110523,3,8,5.10347,0.38288,4974907,1625438,4044684,617,1.40991,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-5.scen
+7.43477,0,142406,1,142398,114468,2,8,7.28634,0.148427,4725069,1609119,3828825,609,1.43392,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-6.scen
+3.76617,0,154844,2,154790,119951,3,8,3.40189,0.708231,4035919,1575080,3121547,617,1.39633,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-9.scen
+6.34102,0,151248,1,151190,116601,3,8,5.16232,1.17869,6525851,1795951,5433962,616,1.42125,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-11.scen
+4.71687,0,148175,1,148150,117928,2,8,4.47855,0.238317,3175011,1425757,2479460,609,1.42172,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-12.scen
+1.12395,0,150470,1,150470,118193,2,8,1.09006,0.0338869,4755032,1185442,3895130,609,1.39103,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-14.scen
+5.18077,0,147610,2,147597,116858,2,8,4.90204,0.55746,3426856,1530893,2681018,609,1.36772,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-15.scen
+5.18695,0,153958,1,153959,120418,2,7,4.95656,0.230392,3165040,1401908,2517162,608,2.27524,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-16.scen
+3.78005,0,144375,1,144340,115313,2,8,3.72875,0.0513024,2545665,1288815,1846070,609,1.55059,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-19.scen
+8.58196,0,152808,1,152737,120663,3,5.5,8.11563,0.466336,4887603,1778460,4049277,612,1.40541,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/warehouse-20-40-10-2-1-even-24.scen
