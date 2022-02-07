@@ -1,7 +1,7 @@
 runtime,num of collisions,solution cost,initial collisions,initial solution cost,sum of distances,iterations,group size,runtime of initial solution,area under curve,LL expanded nodes,LL generated,LL reopened,LL runs,preprocessing runtime,solver name,instance name
-0.0100348,0,1668,1,1660,1442,3,5,0.0042754,0.00575942,6822,12309,49,71,0.00667335,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-4.scen
-0.0113171,0,1863,1,1858,1447,2,8,0.00699793,0.00431919,6786,13879,462,69,0.00791526,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-11.scen
-0.00826018,0,1904,1,1900,1649,2,8,0.00699591,0.00126427,5975,12732,541,69,0.00659344,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-16.scen
-0.00641266,0,1900,1,1896,1560,2,8,0.00534348,0.00106917,6139,12056,48,69,0.00740505,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-18.scen
-0.00573396,0,1689,1,1683,1493,2,8,0.00325546,0.0024785,6539,10783,735,69,0.00610216,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-19.scen
-0.00217054,0,1623,1,1621,1440,2,2,0.00199832,0.000172217,4907,7897,79,63,0.00798908,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-24.scen
+0.00833984,0,1668,1,1660,1442,3,5,0.00436023,0.00397961,6822,12309,49,71,0.00617147,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-4.scen
+0.0120085,0,1863,1,1858,1447,2,8,0.00645252,0.00555599,6786,13879,462,69,0.00663872,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-11.scen
+0.00982833,0,1904,1,1900,1649,2,8,0.00767666,0.00215166,5975,12732,541,69,0.00647113,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-16.scen
+0.0126847,0,1900,1,1896,1560,2,8,0.010632,0.0020526,6139,12056,48,69,0.0204671,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-18.scen
+0.00751234,0,1689,1,1683,1493,2,8,0.00444822,0.00306412,6539,10783,735,69,0.0230053,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-19.scen
+0.0043017,0,1623,1,1621,1440,2,2,0.00408394,0.000217758,4907,7897,79,63,0.0061126,InitLNS(PP),/home/trojan/Desktop/curve/MAPF-LNS2/scen_even/random-32-32-20-even-24.scen

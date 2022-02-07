@@ -10,7 +10,7 @@ sid=0
 time=60
 w=1.02
 
-for n in $(seq 10 10 100)
+for n in $(seq 20 20 100)
 do
     for i in $(seq 1 1 25)
     do
@@ -30,7 +30,7 @@ sid=0
 time=60
 w=1.02
 
-for n in $(seq 10 10 100)
+for n in $(seq 20 20 100)
 do
     for i in $(seq 1 1 25)
     do
